@@ -6,15 +6,16 @@ h3,h1,h4
 {
   background-color:#87CEFA;
 }
-p,ul,ol,form
+p,ul,ol
 {
   background-color:silver;
 }
+
 table
 {
   background-color:silver;
   border-style: dotted;
   border: 5;
-  cellspacing:10;
+  cellspacing: 10;
 
 }
